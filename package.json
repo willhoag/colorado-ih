@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "deploy": "surge ."
+  },
+  "devDependencies": {
+    "surge": "^0.20.3"
+  }
+}
