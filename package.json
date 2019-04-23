@@ -1,8 +1,11 @@
 {
   "scripts": {
-    "deploy": "surge ."
+    "deploy": "surge .",
+    "start": "serve"
   },
   "devDependencies": {
+    "serve": "^11.0.0",
     "surge": "^0.20.3"
-  }
+  },
+  "dependencies": {}
 }
